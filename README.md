@@ -1,5 +1,7 @@
 # Aplicación inicial ToDoList
 
+Cambios realizados en el repositorio por David César Moro Nieto
+
 Aplicación ToDoList con Spring Boot y plantillas Thymeleaf.
 
 ## Requisitos
